@@ -7,7 +7,7 @@
 
 - 📫 Me encontre no email: **grazielyosevero@gmail.com**
 
-- ⚡ Fato curioso é que utilizando JavaScript, CSS e HTML desenvolvi  um site de uma fictícia empresa de tecnologia, destacando minha capacidade de dominar múltiplas linguagens e entregar soluções inovadoras e robustas para desafios corporativos, demonstrando versatilidade e habilidade em enfrentar desafios complexos de desenvolvimento.**
+- ⚡ Fato curioso é que utilizando JavaScript, CSS e HTML desenvolvi  um site de uma fictícia empresa de tecnologia, destacando minha capacidade de dominar múltiplas linguagens e entregar soluções inovadoras e robustas para desafios corporativos, demonstrando versatilidade e habilidade em enfrentar desafios complexos de desenvolvimento**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
