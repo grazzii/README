@@ -1,5 +1,5 @@
 <h1 align="center">Oi👋, Eu sou a Graziely</h1>
-<h3 align="center">Entusiasta a Ciência e Programação</h3>
+<h3 align="center">Entusiasta da Ciência e Programação</h3>
 
 - 🌱Atualmente estou aprendendo **Java, ReactJS**
 
