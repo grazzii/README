@@ -1,4 +1,4 @@
-<h1 align="center">Oi👋, Eu sou a Graziely</h1>
+<h1 align="center">Oi👋, bem vindo!</h1>
 <h3 align="center">Entusiasta da Ciência e Programação <3</h3>
 
 - 🌱Atualmente estou aprendendo **Java, Spring Boot**
